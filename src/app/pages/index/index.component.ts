@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrl: './index.component.scss'
 })
 export class IndexComponent {
-  message: string = "I hope you know that you are the most precious thing in my entire life. I doing everything to give you the life you deserve.";
+  message: string = "I hope you know that you are the most precious thing in my entire life. I'm doing everything to give you the life you deserve.";
 }
